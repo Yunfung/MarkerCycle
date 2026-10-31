@@ -1,0 +1,8 @@
+# 这些文件必须保持字节原样（UTF-8 BOM + CRLF），不能被换行符转换
+*.ps1 -text
+*.bat -text
+说明.txt -text
+*.dll binary
+
+# 其它文本按仓库统一规范
+* text=auto

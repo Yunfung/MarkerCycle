@@ -1,0 +1,23 @@
+# 构建中间产物
+build/
+*.obj
+*.pdb
+*.ilk
+*.exe
+
+# 安装脚本留下的备份
+backups/
+
+# 游戏目录里被替换下来的旧 DLL
+*.dll.old-*
+*.old-*
+
+# 编辑器 / 系统垃圾
+.vs/
+.vscode/
+Thumbs.db
+desktop.ini
+
+# 一次性补丁脚本（开发过程产物）
+tools/patch_*.py
+tools/sanitize_for_publish.py
