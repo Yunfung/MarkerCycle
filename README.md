@@ -8,6 +8,10 @@ v1.3 起**固定 8 个循环常驻**：8 个绑定标识在加载时就全部注
 
 Each cycle has its own hotkey, action list and progress (default list: squad markers 1→2→…→8→1).
 
+- GitHub: <https://github.com/Yunfung/MarkerCycle>
+- Gitee: <https://gitee.com/vru/gw2-marker-cycle>
+- 下载（Release 附件）：<https://github.com/Yunfung/MarkerCycle/releases> / <https://gitee.com/vru/gw2-marker-cycle/releases>
+
 用户安装 / 使用说明见 [说明.txt](说明.txt)。
 
 ---
